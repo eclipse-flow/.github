@@ -1,5 +1,5 @@
 {
-    "name": "Octo Organization Workflow",
+    "name": "Eclipse Flow Organization Pull Request Validation Workflow",
     "description": "Eclipse Flow Organization pull request validation CI workflow template.",
     "iconName": "example-icon",
     "categories": [
